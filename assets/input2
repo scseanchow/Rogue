@@ -1,0 +1,6 @@
+8X23 ds0 dn0 m7,7 m3,4 h6,6 p2,2 m2,4 g0,0
+8X16 ds0 m7,7 m3,4 h6,6 p2,2 m2,4 
+8X16 de0 ds0 dn0 m7,7 m3,4 p2,2 m2,4 
+8X16 de0 ds0 dn0 m7,7 m3,4 p2,2 m2,4 
+8X16 de0 dw0 ds0 dn0 m7,7 m3,4 p2,2 m2,4 
+8X16 de0 dw0 ds0 dn0 m7,7 m3,4 p2,2 m2,4 
