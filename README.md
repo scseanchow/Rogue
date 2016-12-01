@@ -1,6 +1,8 @@
 # Rogue
 CIS * 2500 - Rogue Game
 
+Project made for CIS 2500, first year course at University of Guelph. Uses NCurses library
+
 COMPILATION:
 1) gcc src/main.c src/a2functions.c -Iinclude -lncurses 
 2) make a.out
